@@ -27,7 +27,7 @@ The dataset contains environmental variables such as temperature and other relat
 
 ---
 
-## 🤖 Model Training
+## Model Training
 - Implemented Linear Regression  
 - Trained model using training dataset  
 - Generated predictions on test data  
